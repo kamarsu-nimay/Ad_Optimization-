@@ -18,7 +18,7 @@ from scipy.stats import ttest_ind
 
 
 # Loading the dataset
-data = pd.read_csv(r'E:\Software Applications\brex\OnlineNewsPopularity\OnlineNewsPopularity.csv')
+data = pd.read_csv(r'specify the path of the file with backlashes \OnlineNewsPopularity.csv')
 
 data.head()
 
